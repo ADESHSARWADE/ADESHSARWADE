@@ -1,177 +1,75 @@
-# 👋 Hi, I'm Adesh Sarwade  
+<p align="center">
+  <img src="assets/banner.png" alt="GitHub Banner"/>
+</p>
 
-🎓 **B.Tech – CSE (Artificial Intelligence)**  
-📍 Vadodara, Gujarat, India  
-📧 2203051249002@paruluniversity.ac.in | sarwadeadesh20049@gmail.com  
-📞 +91 7264079166  
-🔗 [LinkedIn](https://www.linkedin.com/in/sarwade-adesh-375297273) | [GitHub](https://github.com/ADESHSARWADE)
+# 👋 Hi, I'm Adesh
 
----
-
-## 🚀 About Me
-
-I am a **Computer Science (AI) undergraduate** passionate about **Web Development, Python, and Machine Learning**.  
-I enjoy building **real-world, user-focused applications** and continuously improving my skills through **projects, hackathons, and industry-oriented learning programs**.
-
-I aim to contribute to **innovative and scalable software solutions** while growing professionally in a collaborative environment.
+🚀 AI & Web Development Enthusiast  
+💻 Python • Flask • Machine Learning • Full-Stack Web  
+🌱 Learning by building real-world projects
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Tech Stack
 
-### 💻 Programming & Development
-- Python
-- Core Java
-- Flask (Backend)
-- HTML, CSS, JavaScript
-- SQL / MySQL
+### 💻 Backend & Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-### 📊 Data & Tools
-- Excel (Lookup, Pivot Tables)
-- Tableau
-- Git & GitHub
+### 🌐 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 
-### 🤖 AI / ML
-- Machine Learning Fundamentals
-- Supervised & Unsupervised Learning
-- Neural Networks
-- AI Fundamentals (IBM SkillsBuild)
+### 🤖 AI / Data
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=flat)
+![Neural Networks](https://img.shields.io/badge/Neural%20Networks-8A2BE2?style=flat)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
 
-### 🧠 Other Skills
-- Software Engineering & SDLC
-- Debugging & Backend Error Handling
-- Team Collaboration
-- Problem Solving
+### 🧰 Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
 ---
 
-## 🎓 Education
+## 🚀 Featured Projects
 
-**Parul University, Vadodara**  
-📅 *2022 – 2026*  
-🎓 B.Tech – CSE (Artificial Intelligence)  
-📊 **CGPA:** 7.69 / 10  
+### 🧹 MaidEase – Maid Booking Web App
+Flask-based web application to book maids with secure payments.
 
-**Milind Junior College, Latur**  
-📅 *2022*  
-📘 12th – MSBSHSE | **73.33%**
-
-**Yashwant Vidyalaya, Latur**  
-📅 *2020*  
-📘 10th – MSBSHSE | **86%**
+👉 https://github.com/ADESHSARWADE/MaidDirect-MaidEase
 
 ---
 
-## 💼 Internship Experience
+### 🌍 State-Stories – Culture & Travel Platform
+Hackathon project showcasing Indian culture with localization support.
 
-### **Student Intern – Edunet Foundation**  
-📅 *Nov 2024 – Jul 2025*  
-
-**Key Technologies:**  
-`SAP | ABAP | Git | GitHub | AI | SDLC`
-
-**Highlights:**
-- Participated in the **E2E (Educate to Employ)** program
-- Completed industry-focused courses via **Coursera & SAP Learning Hub**
-- Gained exposure to **SAP, Cloud, Software Engineering, and GenAI**
-- Built **project-based implementations** from learning blocks
+👉 https://github.com/ADESHSARWADE/State-Stories
 
 ---
 
-## 🧪 Projects
+## 📊 GitHub Stats
 
-### 🧹 MaidEase – Maid Booking Web Application  
-📅 *Nov 2024 – Mar 2025*  
-👥 Team Size: 4  
-🔗 [GitHub Repository](https://github.com/ADESHSARWADE/MaidDirect-MaidEase)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ADESHSARWADE&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ADESHSARWADE&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p>
 
-**Tech Stack:**  
-`Python | Flask | SQL | HTML | CSS | JavaScript | Payment Gateway`
-
-**My Contributions:**
-- Integrated **Payment Gateway with Backend**
-- Debugged complex backend issues
-- Actively collaborated in full project development
-
-📌 *Minor project developed during college*
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ADESHSARWADE&theme=tokyonight&hide_border=true" height="165"/>
+</p>
 
 ---
 
-### 🌍 State-Stories – Culture & Travel Web App (Hackathon Project)  
-📅 *Aug 2024 – Sep 2024*  
-👥 Team Size: 6  
-🔗 [GitHub Repository](https://github.com/ADESHSARWADE/State-Stories)
+## 🤝 Connect With Me
 
-**Tech Stack:**  
-`Flask | MySQL | Bootstrap | JavaScript`
-
-**Key Features:**
-- Showcases **history, culture, and cuisine of Indian states**
-- Bus & guide booking functionality
-- Multi-language localization
-
-**My Role:**
-- Backend debugging in Flask
-- Database management
-- Data collection & frontend integration
-- Localization for **Marathi & Maharashtra**
-
-🏆 *Shortlisted among Top 45 teams for Smart India Hackathon (SIH)*
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Adesh%20Sarwade-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarwade-adesh-375297273)
+[![GitHub](https://img.shields.io/badge/GitHub-ADESHSARWADE-181717?style=flat&logo=github&logoColor=white)](https://github.com/ADESHSARWADE)
 
 ---
 
-## 🏆 Achievements
-
-- 🥇 Top 25 Teams – **Vadodara Hackathon 5.0**
-- 🏅 Top 25 Teams – **Vadodara Startup Festival 5.0 (Idea Pitching)**
-
----
-
-## 📜 Certifications & Assessments
-
-- **NPTEL – Networking** (Score: 77/100)
-- **AI Fundamentals – IBM SkillsBuild**
-- **Introduction to Software Engineering**
-- **Networking Essentials**
-- **Git & GitHub Fundamentals**
-- **Tableau Workshop Certification**
-- **Vadodara Hackathon 5.0 – Certificate of Achievement**
-
----
-
-## 🧠 Workshops & Trainings
-
-- **ABCs of Blockchain** – Parul Institute of Technology
-- **Tableau Workshop** – Parul Institute of Technology
-
----
-
-## 🌱 Interests & Activities
-
-- Hackathons & Tech Projects
-- App/Web Beta Testing
-- Startup Ecosystem & Innovation
-- Continuous Learning
-
----
-
-## 🌐 Languages
-
-- Marathi  
-- Hindi  
-- English  
-
----
-
-## 📫 Let’s Connect!
-
-I’m always open to:
-- Internship opportunities
-- Open-source collaboration
-- Hackathons & tech discussions
-
-📩 Feel free to reach out via **LinkedIn** or **Email**!
-
----
-
-⭐ *If you like my work, consider starring my repositories!*  
+⭐ Thanks for visiting — explore my repositories and projects!
